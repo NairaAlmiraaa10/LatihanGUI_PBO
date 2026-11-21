@@ -21,7 +21,7 @@
 ---
 
 ## ✨ HASIL PROGRAM
-![HasilProgram](screenshoot/HasilProgram.png)
+<img width="290" height="178" alt="Screenshot 2026-11-21 094555" src="https://github.com/user-attachments/assets/f5151b79-70f8-4746-957a-5007fd967aed" />
 
 ## ✨ Deskripsi Program
 
