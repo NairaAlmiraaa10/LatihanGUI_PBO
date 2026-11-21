@@ -20,6 +20,9 @@
 
 ---
 
+## ✨ HASIL PROGRAM
+![HasilProgram](screenshoot/HasilProgram.png)
+
 ## ✨ Deskripsi Program
 
 Program ini merupakan aplikasi GUI sederhana berbasis Java Swing yang digunakan untuk membuat form biodata mahasiswa. Pengguna dapat memasukkan Nama, NIM, dan Program Studi melalui kolom yang tersedia.
